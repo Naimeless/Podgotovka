@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Новая папка\podgotovka\Services\bin\Debug\Services.dll
+C:\Users\User\Desktop\Новая папка\podgotovka\Services\bin\Debug\Services.pdb
+C:\Users\User\Desktop\Новая папка\podgotovka\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\podgotovka\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\podgotovka\Services\obj\Debug\Services.dll
+C:\Users\User\Desktop\Новая папка\podgotovka\Services\obj\Debug\Services.pdb
