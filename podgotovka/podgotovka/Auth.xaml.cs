@@ -31,7 +31,7 @@ namespace podgotovka
             bool valid = Authentification.Login(LoginBox.Text, PasswordBox.Password);
             if (valid)
             {
-                NavigationService.Navigate(new URL());
+                NavigationService.Navigate(new Square());
             }
             else
             {

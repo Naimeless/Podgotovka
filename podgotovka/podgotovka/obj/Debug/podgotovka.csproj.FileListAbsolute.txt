@@ -21,3 +21,5 @@ C:\Users\User\Desktop\Новая папка\podgotovka\podgotovka\obj\Debug\podg
 C:\Users\User\Desktop\Новая папка\podgotovka\podgotovka\bin\Debug\Services.dll
 C:\Users\User\Desktop\Новая папка\podgotovka\podgotovka\bin\Debug\Services.pdb
 C:\Users\User\Desktop\Новая папка\podgotovka\podgotovka\obj\Debug\podgotovka.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\podgotovka\podgotovka\obj\Debug\Square.g.cs
+C:\Users\User\Desktop\Новая папка\podgotovka\podgotovka\obj\Debug\Square.baml

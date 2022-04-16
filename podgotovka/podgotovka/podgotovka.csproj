@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Square.xaml.cs">
+      <DependentUpon>Square.xaml</DependentUpon>
+    </Compile>
     <Compile Include="URL.xaml.cs">
       <DependentUpon>URL.xaml</DependentUpon>
     </Compile>
@@ -77,6 +80,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Square.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="URL.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
